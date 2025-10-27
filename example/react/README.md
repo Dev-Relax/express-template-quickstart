@@ -29,5 +29,5 @@ npm install
 ```bash
 npm run dev
 ```
-Make sure the backend API is running at http://localhost:3000 before starting the frontend.
+Make sure the backend API is running at http://localhost:5000 before starting the frontend.
 
