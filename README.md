@@ -77,7 +77,7 @@ cp .env.example .env
 Example `.env`:
 
 ```
-PORT=3000
+PORT=5000
 MONGODB_URI=mongodb://localhost:27017/your_database_name
 JWT_SECRET=your_jwt_secret
 JWT_REFRESH_SECRET=your_refresh_secret
@@ -90,7 +90,7 @@ CSRF_SECRET=your_csrf_secret
 npm run dev
 ```
 
-Your API is now running at **[http://localhost:3000](http://localhost:3000)** 🚀
+Your API is now running at **[http://localhost:5000](http://localhost:3000)** 🚀
 
 ### 5. Build for Production
 
